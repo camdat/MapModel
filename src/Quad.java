@@ -29,7 +29,7 @@ public class Quad {
         if (!isInside(newNode.getpData())) {
             return;
         }
-        // base case if size is 1;
+        // base case if size is 1
         if ((topLeft.getX() == botRight.getX()) 
                 && (topLeft.getY() == botRight.getY())) {
             if (this.info == null) {

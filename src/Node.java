@@ -1,7 +1,9 @@
 import java.util.LinkedList;
 
 /**
- * @author nct217   
+ * @author nct217 
+ * @author rmb221 
+ * @author bal221 
  * @version 2018.04.23
  * @param <T> usually a Point, generic object
  */

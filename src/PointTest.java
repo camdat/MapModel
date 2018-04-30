@@ -2,6 +2,8 @@ import student.TestCase;
 
 /**
  * @author nct217
+ * @author rmb221
+ * @author bal221
  * @version 2018.04.25
  */
 public class PointTest extends TestCase {
